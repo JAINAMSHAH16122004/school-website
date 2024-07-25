@@ -33,17 +33,17 @@ const HomePage = () => {
         transition={{ duration: 1 }}
       >
         <div className="p-4 bg-white rounded-lg shadow-lg animate__animated animate__zoomIn">
-          <img src="/images/event1.jpg" alt="Event 1" className="w-full h-48 object-cover rounded-t-lg mb-4" />
+          <img src="/images/18.jpg" alt="Event 1" className="w-full h-48 object-cover rounded-t-lg mb-4" />
           <h2 className="text-2xl font-bold mb-2">Sports Day</h2>
           <p>Our annual Sports Day fosters teamwork and sportsmanship. Students compete in various events, showcasing their athletic skills.</p>
         </div>
         <div className="p-4 bg-white rounded-lg shadow-lg animate__animated animate__zoomIn">
-          <img src="/images/event2.jpg" alt="Event 2" className="w-full h-48 object-cover rounded-t-lg mb-4" />
+          <img src="/images/20.jpg" alt="Event 2" className="w-full h-48 object-cover rounded-t-lg mb-4" />
           <h2 className="text-2xl font-bold mb-2">Science Fair</h2>
           <p>The Science Fair is a platform for students to exhibit their scientific acumen and innovative projects.</p>
         </div>
         <div className="p-4 bg-white rounded-lg shadow-lg animate__animated animate__zoomIn">
-          <img src="/images/event3.jpg" alt="Event 3" className="w-full h-48 object-cover rounded-t-lg mb-4" />
+          <img src="/images/event1.jpg" alt="Event 3" className="w-full h-48 object-cover rounded-t-lg mb-4" />
           <h2 className="text-2xl font-bold mb-2">Cultural Fest</h2>
           <p>Our Cultural Fest celebrates the diversity and talent of our students through various performances and activities.</p>
         </div>

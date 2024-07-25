@@ -9,9 +9,9 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center space-x-4">
           <motion.img
-            src="images/school_logo.png"
+            src="images/1.jpg" // Update to your logo path
             alt="School Logo"
-            className="w-12 h-12"
+            className="w-12 h-12" // Adjust size as needed
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 1 }}
